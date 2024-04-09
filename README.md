@@ -1,7 +1,6 @@
 # Restaurant Recommender Chatbot
 
-Using the recommending power of the ALS model on the Databricks platform, we will use information such as restaurant reviews and your prior reviews to recommend restaurants for you or your group via a chatbot
-If there are any questions please feel free to refer to the website at: 
+Using the recommending power of the ALS model on the Databricks platform, we will use information such as restaurant reviews and your prior reviews to recommend restaurants for you or your group via a chatbot. If there are any questions please feel free to refer to the website at: 
 
 http://54.237.7.35/ (May have lost domain)
 
